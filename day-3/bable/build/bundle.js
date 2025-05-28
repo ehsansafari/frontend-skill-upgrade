@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Hello from Babel!"),console.log("Hello from hook!")})();
