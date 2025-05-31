@@ -1,4 +1,4 @@
-# Day 2 - 1404/03/07
+# Day 3 - 1404/03/07
 
 - intro basics of npm, yarn, pnpm
 - bable project
